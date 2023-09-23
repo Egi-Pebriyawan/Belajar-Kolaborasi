@@ -6,4 +6,5 @@ Repository untuk belajar kolaborasi akan tetapi tidak memiliki akses kolaborator
 - Commit kedua
 - Commit ketiga
 - Commit ke empat
-- Commit ke lima 
+- Commit ke lima
+- Commit ke enam 
